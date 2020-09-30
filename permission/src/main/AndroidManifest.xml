@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cn.permission" >
+
+    <application android:allowBackup="true">
+        <activity android:name=".RequestPermission"
+            android:theme="@style/Permission_Activity_Theme"/>
+    </application>
+
+</manifest>

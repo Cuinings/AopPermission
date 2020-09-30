@@ -1,0 +1,4 @@
+rootProject.name='AopPermission'
+include ':app'
+include ':permission'
+include ':permission_kotlin'
