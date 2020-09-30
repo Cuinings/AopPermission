@@ -1,5 +1,5 @@
 # Android全版本权限请求库[RequestPermission]
-github地址:[：https://github.com/Cuinings/RequestPermission]
+github地址:[：https://github.com/Cuinings/AopPermission]
 
 ## ==注意：目前仅可使用Java部分API，kotlin部分还在调整中==
 ## 使用说明
@@ -15,7 +15,7 @@ allprojects {
 
 ### 第二部在moudle的build.gradle中添加
 ```
-implementation 'com.github.Cuinings:RequestPermission:1.0.0'
+implementation 'com.github.Cuinings:AopPermission:1.0.0'
 ```
 
 ### 使用方式
